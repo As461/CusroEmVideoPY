@@ -1,0 +1,25 @@
++ = Adição
+- = Subtração
+* = Multiplicação
+/ = Divisão
+** = Potência
+// = Divisão inteira
+% = Resto da divisão
+
+5+2== 7
+5-2== 3
+5*2== 10
+5/2== 2.5
+5**2== 25
+5//2== 2
+5%2== 1
+
+Ordem de precedencia
+
+Primeiro lugar = ()
+Segundo Lugar = **
+terceiro Lugar = * / // %
+Quarto Lugar = + -
+
+https://www.youtube.com/watch?v=Vw6gLypRKmY = aula
+https://www.youtube.com/watch?v=664e0G_S9nU&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=5 = exercicios

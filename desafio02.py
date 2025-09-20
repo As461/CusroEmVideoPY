@@ -1,0 +1,6 @@
+print('Desafio 02')
+dia = input('Dia = ')
+mes = input('Mês = ')
+ano = input('Ano = ')
+print('Você nasceu no', dia, 'de', mes, 'de', ano, '. Correto?')
+## para colocar texto e objeto tem que separar sempre com (, Virgulas)

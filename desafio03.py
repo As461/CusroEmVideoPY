@@ -1,0 +1,12 @@
+'''print('Desafio 03')
+n1 = int(input('Primeiro número '))
+n2 = int(input('Segundo número '))
+soma = n1 + n2
+print('A soma é ', soma )'''
+
+# Sempre que for utilizar numeros inteiros sempre usar o "int()"
+
+n1 = int(input('Primeiro número '))
+n2 = int(input('Segundo número '))
+soma = n1 + n2
+print('A soma entre {} e {} vale {}'.format(n1, n2, soma)  )

@@ -1,0 +1,9 @@
+int() = numeros inteiros ( 1, 2 ,3 50 ,10 60)
+
+float() = numeros flutuantes ou reais (numeros com ponto 15.0, 03.1)
+
+bool() = boleanos (true ou false)
+
+str() = strings, ou textos pode ser ele numero ou letra 
+(a, b, 10) Lembrando que ao utilizar a string 
+não é possivel fazer operações com ela, somente a concatenação
